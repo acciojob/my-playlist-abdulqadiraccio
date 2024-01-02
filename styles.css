@@ -34,6 +34,9 @@ a{
 video{
 	width:100%
 }
+#music{
+	background-color:rgb(255,255,255);
+}
 audio{
 	width:100%
 }
