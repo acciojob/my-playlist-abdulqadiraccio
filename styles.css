@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+#main{
+	background-color:rgb(204,204,204)
+	
+}
+h1{
+	text-align:center;
+	padding:10px;
+}
+#sl{
+	height:130px;
+	border-radius:5px;
+	margin:20px;
+	background-color:white;
+	border:2px black solid;
+	
+}
+h2{
+	text-align:center;
+}
+#sl1{
+	height:470px;
+	border-radius:5px;
+	margin:20px ;
+	background-color:white;
+	border:2px black solid;
+	
+	
+}
+#sl2{
+	margin:10px;
+			
+}
