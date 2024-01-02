@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
-#main{
+body{
 	background-color:rgb(204,204,204)
+	
 	
 }
 h1{
 	text-align:center;
-	padding:10px;
+	
 }
 #sl{
 	height:130px;
@@ -19,15 +20,25 @@ h2{
 	text-align:center;
 }
 #sl1{
-	height:470px;
+	
 	border-radius:5px;
-	margin:20px ;
-	background-color:white;
+	margin:10px 40px 10px 40px;
+	background-color:rgb(255,255,255);
 	border:2px black solid;
 	
 	
 }
+a{
+	text-decoration:none
+}
+video{
+	width:100%
+}
+audio{
+	width:100%
+}
 #sl2{
 	margin:10px;
+	background-color:rgb(255,255,255)
 			
 }
